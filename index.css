@@ -543,7 +543,6 @@ body {
 
 @media (min-width: 35rem) {
   .destination {
-    background-position: center center;
     background-image: url(./assets/destination/background-destination-tablet.jpg);
   }
 }
@@ -561,7 +560,6 @@ body {
 
 @media (min-width: 35rem) {
   .crew {
-    background-position: center center;
     background-image: url(./assets/crew/background-crew-tablet.jpg);
   }
 }
@@ -571,7 +569,7 @@ body {
   }
 }
 
-/* crew */
+/* technology */
 
 .technology {
   background-image: url(./assets/technology/background-technology-mobile.jpg);
@@ -579,7 +577,6 @@ body {
 
 @media (min-width: 35rem) {
   .technology {
-    background-position: center center;
     background-image: url(./assets/technology/background-technology-tablet.jpg);
   }
 }
